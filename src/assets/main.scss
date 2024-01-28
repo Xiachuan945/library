@@ -1,0 +1,10 @@
+@import '../../node_modules/bootstrap/scss/functions';
+
+@import '../assets/stylesheet/variables';
+
+@import '../../node_modules/bootstrap';
+
+@import url(//fonts.googleapis.com/earlyaccess/notosanstc.css);
+body{
+  font-family: 'Noto Sans TC',sans-serif !important;
+}
